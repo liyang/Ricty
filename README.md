@@ -90,7 +90,7 @@ Ricty 生成スクリプトを配布しています。
 
 Debian/Ubuntu
 
-    # apt-get install fontforge
+    # apt-get install fontforge fonts-inconsolata fonts-migmix
 
 Fedora/CentOS
 
